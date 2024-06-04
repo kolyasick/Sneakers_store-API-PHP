@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01ce6592-5f30-4175-bbd0-e6823ee8a27a" name="Changes" comment="2nd commit">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myProject_loc.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/1r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/2r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/3r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/404_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/4r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/5r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/arrow-next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/bin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/brends.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/checked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/close-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/emoji-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/emoji-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/free-icon-magnifier-2725317.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/krest.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/like-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/like-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/magnifier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/minus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/nike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/nike2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/nike3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/order-success-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/package-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/profile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sneakers/sneakers-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/time-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Config/routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Config/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/Admin/CategoryAdminController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/Admin/MainAdminController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/Admin/OrderAdminController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/Admin/ProductAdminController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/Admin/ReviewAdminController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/ArticlesController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/CartController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/CategoriesController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/MainController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/PersonalController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/UsersController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Articles/ActiveRecordEntity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Articles/Article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Categories/Category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Order/Order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Order/OrderProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Products/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Reviews/Review.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Users/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Users/UserAuthService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/Db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/View.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kolyasick&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kolyasick/Sneakers-store-PHP-MVC.git&quot;,
+    &quot;accountId&quot;: &quot;6438eaaf-362d-450f-b09b-597ff2f559da&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2dxA1LkD98Krm9anGgj9c2Oa466" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/OSPanel/domains/projs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PS-241.15989.102" />
+        <option value="bundled-php-predefined-ba97393d7c68-c76157a7178b-com.jetbrains.php.sharedIndexes-PS-241.15989.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01ce6592-5f30-4175-bbd0-e6823ee8a27a" name="Changes" comment="" />
+      <created>1710939140505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710939140505</updated>
+      <workItem from="1712924358268" duration="220000" />
+      <workItem from="1715166826149" duration="1562000" />
+      <workItem from="1715168811615" duration="597000" />
+      <workItem from="1715169506020" duration="360000" />
+      <workItem from="1716059108109" duration="781000" />
+      <workItem from="1716059906074" duration="8589000" />
+      <workItem from="1716129799232" duration="3802000" />
+      <workItem from="1716148829272" duration="894000" />
+      <workItem from="1716151997548" duration="113000" />
+      <workItem from="1716164841139" duration="858000" />
+      <workItem from="1716211025956" duration="7760000" />
+      <workItem from="1716227969125" duration="1676000" />
+      <workItem from="1716244847320" duration="1750000" />
+      <workItem from="1717193876432" duration="5618000" />
+      <workItem from="1717246197893" duration="604000" />
+      <workItem from="1717423881026" duration="2000" />
+      <workItem from="1717424297278" duration="5538000" />
+      <workItem from="1717448083442" duration="4126000" />
+      <workItem from="1717513150367" duration="3508000" />
+      <workItem from="1717539454052" duration="648000" />
+      <workItem from="1717542245305" duration="10000" />
+      <workItem from="1717542265805" duration="103000" />
+      <workItem from="1717542374896" duration="41000" />
+    </task>
+    <task id="LOCAL-00001" summary="first-commit">
+      <option name="closed" value="true" />
+      <created>1715167048637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715167048637</updated>
+    </task>
+    <task id="LOCAL-00002" summary="del .idea">
+      <option name="closed" value="true" />
+      <created>1715168284086</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715168284086</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2nd commit">
+      <option name="closed" value="true" />
+      <created>1715169338467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715169338467</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2nd commit">
+      <option name="closed" value="true" />
+      <created>1715169538119</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715169538119</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first-commit" />
+    <MESSAGE value="del .idea" />
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
+  </component>
+</project>
