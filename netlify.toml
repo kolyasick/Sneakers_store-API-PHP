@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "/index.php?route=:splat"
+  status = 200
+  force = true
