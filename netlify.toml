@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/*"
-  to = "/index.php?route=:splat"
+  from = "/*.php"
+  to = "/:splat"
   status = 200
   force = true
